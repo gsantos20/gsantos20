@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**visksz/visksz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div 
+  <a href="https://github.com/visksz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=visksz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visksz&layout=compact&langs_count=7&theme=dracula"/>
+</div
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo Santos">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Connect with me:
+
+[<img align="center" alt="gustavosantos | Instagram" src="https://img.shields.io/badge/Instagram-gustavosantos-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="gustavosantos | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20gustavosantos%20-blue?style=flat-square&logo=linkedin" />][linkedin]
+[<img align="center" alt="gustavosantos | Email" src="https://img.shields.io/badge/Email-nerisgs20@gmail.com-blue?style=flat-square&logo=gmail" />][email]
+
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/guuztta/
+[linkedin]: https://www.linkedin.com/in/gsantos20/
+[email]: mailto:nerisgs20@gmail.com
