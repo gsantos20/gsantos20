@@ -11,8 +11,8 @@
 
 #### Connect with me:
 
-[<img align="center" alt="gustavosantos | Instagram" src="https://img.shields.io/badge/Instagram-gustavosantos-blue?style=flat-square&logo=instagram" />][instagram]
-[<img align="center" alt="gustavosantos | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20gustavosantos%20-blue?style=flat-square&logo=linkedin" />][linkedin]
+[<img align="center" alt="gustavosantos | Instagram" src="https://img.shields.io/badge/Instagram-visk-blue?style=flat-square&logo=instagram" />][instagram]
+[<img align="center" alt="gustavosantos | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20gsantos20%20-blue?style=flat-square&logo=linkedin" />][linkedin]
 [<img align="center" alt="gustavosantos | Email" src="https://img.shields.io/badge/Email-nerisgs20@gmail.com-blue?style=flat-square&logo=gmail" />][email]
 
 <br />
