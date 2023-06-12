@@ -18,7 +18,7 @@
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!--   <img align="center" alt="Gustavo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
-  <img src="https://raw.githubusercontent.com/visksz/visksz/main/image/computer-illustration.png" min-width="400px" max-width="400px"   width="400px" align="right" alt="Computador Gustavo Santos">
+<!--   <img src="https://raw.githubusercontent.com/visksz/visksz/main/image/computer-illustration.png" min-width="400px" max-width="400px"   width="400px" align="right" alt="Computador Gustavo Santos"> -->
 </div>
 
 
