@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visksz&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo Santos">
+<img src="https://raw.githubusercontent.com/visksz/visksz/main/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Gustavo Santos">
 
 
 #### Connect with me:
@@ -21,3 +21,5 @@
 [instagram]: https://www.instagram.com/guuztta/
 [linkedin]: https://www.linkedin.com/in/gsantos20/
 [email]: mailto:nerisgs20@gmail.com
+
+![Snake animation](https://github.com/visksz/visksz/blob/output/github-contribution-grid-snake.svg)
