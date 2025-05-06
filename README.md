@@ -12,8 +12,8 @@
  <div align="center"><br>
 
    <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
-</a>
+    <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  </a>
 
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
@@ -30,7 +30,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsantos20/gsantos20/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gsantos20/gsantos20/output/github-contribution-grid-snake.svg">
   </picture>
-  
+  </br>
   <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
