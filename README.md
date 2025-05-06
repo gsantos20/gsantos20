@@ -1,6 +1,6 @@
 ## Oii! Eu sou o Gustavo Santos
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](https://raw.githubusercontent.com/gsantos20/gsantos20/output/profile-night-rainbow.svg)
 
 <div>
   <a href="https://github.com/gsantos20"></a>
