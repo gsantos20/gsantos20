@@ -30,8 +30,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gsantos20/gsantos20/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gsantos20/gsantos20/output/github-contribution-grid-snake.svg">
   </picture>
-  <br>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
 </div>
 
+####
+<img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
