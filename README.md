@@ -1,5 +1,7 @@
 ## Oii! Eu sou o Gustavo Santos
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <div>
   <a href="https://github.com/gsantos20"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gsantos20&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
