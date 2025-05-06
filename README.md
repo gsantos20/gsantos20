@@ -12,7 +12,7 @@
  <div style="display: inline_block"><br>
 
    <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,express,nest,aws,azure,docker,github,jest,materialui,linux,postman,styledcomponents,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,express,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
 </a>
 
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
