@@ -9,7 +9,7 @@
   </a>
 </div>
 
- <div style="display: inline_block"><br>
+ <div align="center"><br>
 
    <a href="https://skillicons.dev"   >
   <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,express,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
@@ -20,7 +20,7 @@
 
 #### Connect with me:
 
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/visk.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:nerisgs20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gsantos20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
