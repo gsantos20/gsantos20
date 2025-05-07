@@ -33,5 +33,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          clean: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}]
