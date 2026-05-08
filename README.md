@@ -1,18 +1,18 @@
 ## Oii! Eu sou o Gustavo Santos
 
-![Status](https://raw.githubusercontent.com/gsantos20/gsantos20/output/profile-night-rainbow.svg)
+![Status](https://raw.githubusercontent.com/gsantos20/gsantos20/output/profile-night-rainbow.svg?v=20260508)
 
 <div align="center">
   <a href="https://github.com/gsantos20">
-    <img height="205em" src="https://github-readme-stats.vercel.app/api?username=gsantos20&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos20&layout=compact&langs_count=7&theme=dracula"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gsantos20&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&cache_seconds=1800"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos20&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
   </a>
 </div>
 
  <div align="center"><br>
 
    <a href="https://skillicons.dev"   >
-    <img src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+    <img width="100%" src="https://skillicons.dev/icons?i=git,vscode,cs,dotnet,typescript,angular,react,next,tailwind,sass,nodejs,nest,aws,azure,docker,github,linux,postman,vercel,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
   </a>
 
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
